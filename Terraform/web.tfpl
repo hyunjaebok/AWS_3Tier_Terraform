@@ -1,0 +1,4 @@
+#! /bin/bash
+
+sed -i 's/worker.worker1.host=10.0.1.229/worker.worker1.host=${nlb_dns}/' /etc/httpd/conf/workers.properties
+systemctl restart httpd
