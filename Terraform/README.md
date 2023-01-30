@@ -25,6 +25,7 @@
 ![image](https://user-images.githubusercontent.com/110655823/215527916-96d55ec0-fe29-442a-adc6-b2e3c1a5e2b8.png)
 
 </br>
+
 ### Load Balancer
 #### AutoScaling - WEB/WAS 시작구성의 Userdata 생성
 ![image](https://user-images.githubusercontent.com/110655823/215529582-2e5969a6-524d-43db-88b2-93c1d935a091.png)
@@ -37,7 +38,6 @@
 
 #### LoadBalance - NLB 생성
 ![image](https://user-images.githubusercontent.com/110655823/215530393-4e30a07a-a16b-4a10-9f28-9f4b35499a6a.png)
-
 
 #### LoadBalancer - Target Group 생성
 ![image](https://user-images.githubusercontent.com/110655823/215530592-ed3766e3-7478-47b1-b70a-efdb7b379729.png)
@@ -74,6 +74,8 @@
 
 #### Route53 - DNS 확인
 ![image](https://user-images.githubusercontent.com/110655823/215545931-28ba749c-0058-4ded-8f74-35977f329108.png)
+
+</br>
 
 ### Certification
 #### ACM - 인증서 생성
