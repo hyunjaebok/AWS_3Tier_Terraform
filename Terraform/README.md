@@ -94,4 +94,4 @@
 
 ---
 
-### [👈 Go back 👈](https://github.com/hyunjaebok/AWS_3Tier_Terraform_Project)
+### [👈 Go back](https://github.com/hyunjaebok/AWS_3Tier_Terraform_Project)
