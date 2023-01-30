@@ -85,5 +85,5 @@
 #### ACM - 인증서 확인
 ![image](https://user-images.githubusercontent.com/110655823/215546384-67ff4b5a-b207-4ee2-9ec8-1447926b7445.png)
 
-### LoadBalancer - ALB 리스너 변경
+#### LoadBalancer - ALB 리스너 변경
 ![image](https://user-images.githubusercontent.com/110655823/215546565-f3b37adf-4e3b-4c64-ba26-a21367282dc9.png)
