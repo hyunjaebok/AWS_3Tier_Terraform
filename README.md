@@ -34,10 +34,7 @@
 ### Security Group
 ![image](https://user-images.githubusercontent.com/110655823/215509978-f7599624-3857-4e42-9af7-bcfd9709ffae.png)
 
-
 ### - [Terraform](https://github.com/hyunjaebok/AWS_3Tier_Terraform_Project/tree/main/Terraform)
-
-
 
 </br>
 
