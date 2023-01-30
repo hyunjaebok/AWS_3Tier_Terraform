@@ -15,6 +15,8 @@
 ## 사용 기술
 #### CSP
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--AWS-->
+#### OS
+<img src="https://img.shields.io/badge/Amazon Linux-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--amazon linux-->
 #### IaC
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"> <!--Terraform--> 
 #### Team Collabolation Tool
