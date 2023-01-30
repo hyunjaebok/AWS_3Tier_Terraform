@@ -71,4 +71,4 @@
 
 ---
 
-### [👈 Go back 👈](https://github.com/hyunjaebok)
+### [👈 Go back](https://github.com/hyunjaebok)
