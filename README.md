@@ -31,24 +31,6 @@
 
 </br>
 
-## 상세 내용 
-### Infra Architecture
-![image](https://user-images.githubusercontent.com/110655823/215509545-27108752-71c4-440a-9c69-ab5f035438e9.png)
-> - 관리자는 클라우드 기반 IDE인 Cloud9을 사용해 Terraform으로 AWS Infra를 구축
-> - 고객은 Route53에 등록된 도메인을 통해 3-Tier 웹 서비스 이용
-
-### Security Group
-![image](https://user-images.githubusercontent.com/110655823/215509978-f7599624-3857-4e42-9af7-bcfd9709ffae.png)
-
-### - [Terraform](https://github.com/hyunjaebok/AWS_3Tier_Terraform_Project/tree/main/Terraform)
-
-</br>
-
-## 구축 과정
-### - Notion Link(https://www.notion.so/Terraform-AWS-Infra-a55221f85f6043cda23e13a3ad58096a)
-
-</br>
-
 ## 담당한 업무
 - version.tf을 작성하여, Terraform의 버전과 공급자를 구성
 - vpc.tf을 작성하여, VPC을 생성
@@ -71,3 +53,21 @@
     - 도메인을 레코드에 등록
     - ACM 인증서을 생성
     - 기존 alb 리스너를 443port로 변경
+    
+</br>
+
+## 상세 내용 
+### Infra Architecture
+![image](https://user-images.githubusercontent.com/110655823/215509545-27108752-71c4-440a-9c69-ab5f035438e9.png)
+> - 관리자는 클라우드 기반 IDE인 Cloud9을 사용해 Terraform으로 AWS Infra를 구축
+> - 고객은 Route53에 등록된 도메인을 통해 3-Tier 웹 서비스 이용
+
+### Security Group
+![image](https://user-images.githubusercontent.com/110655823/215509978-f7599624-3857-4e42-9af7-bcfd9709ffae.png)
+
+### - [Terraform](https://github.com/hyunjaebok/AWS_3Tier_Terraform_Project/tree/main/Terraform)
+
+</br>
+
+## 구축 과정
+### - Notion Link(https://www.notion.so/Terraform-AWS-Infra-a55221f85f6043cda23e13a3ad58096a)
