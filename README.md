@@ -1,6 +1,6 @@
 # Terraform을 활용한 AWS Infra 구축
      Terraform 이용하여, AWS Infra 구축
-     Web-Was-DB를 연동하여, 3-Tier 웹 서비스 운영
+     WEB-WAS-DB를 Mod_jk로 연동하여, 3-Tier 웹 서비스 운영
      
 ## 📆 진행 기간
 - 2022.10.17 ~ 2022.10.21
