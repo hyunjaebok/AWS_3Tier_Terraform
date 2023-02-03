@@ -39,7 +39,7 @@
 - ec2.tf를 작성하여, Instance을 생성
     - WEB/WAS Instance을 구성
 - db.tf를 작성하여, RDS를 생성
-- WEB/WAS/DB를 Mod_jkfh 연동하여, 3-Tier 구성
+- WEB/WAS/DB를 Mod_jk로 연동하여, 3-Tier 구성
 - ec2.tf에 추가 작성하여, WEB과 WAS의 AMI를 생성
 - nlb.tf를 작성하여, Network Load Balancer를 생성
     - 시작구성, Autoscaling Group, 보안그룹, 대상그룹, 리스너 정의를 구성
