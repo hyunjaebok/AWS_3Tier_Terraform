@@ -17,7 +17,7 @@
 #### IaC
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"> <!--Terraform-->
 #### IDE
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"> <!--VSCode-->
+<img src="https://img.shields.io/badge/AWS Cloud9-007ACC?style=flat-square&logo=AWS Cloud9&logoColor=white"> <!--AWS Cloud9-->
 #### Framework
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <!--Spring-->
 #### Team Collabolation Tool
