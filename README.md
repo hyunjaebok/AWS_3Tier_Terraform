@@ -62,12 +62,12 @@
 ### Security Group
 ![image](https://user-images.githubusercontent.com/110655823/215509978-f7599624-3857-4e42-9af7-bcfd9709ffae.png)
 
-### - [Terraform](https://github.com/hyunjaebok/AWS_3Tier_Terraform_Project/tree/main/Terraform)
+### [- Terraform](https://github.com/hyunjaebok/AWS_3Tier_Terraform_Project/tree/main/Terraform)
 
 </br>
 
 ## 🔗 구축 과정
-### - Notion Link(https://www.notion.so/Terraform-AWS-Infra-a55221f85f6043cda23e13a3ad58096a)
+### [- Notion Link](https://awesome-bottle-5fa.notion.site/Terraform-AWS-Infra-a55221f85f6043cda23e13a3ad58096a)
 
 </br>
 
