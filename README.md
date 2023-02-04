@@ -57,6 +57,7 @@
 ![image](https://user-images.githubusercontent.com/110655823/215509545-27108752-71c4-440a-9c69-ab5f035438e9.png)
 > - 관리자는 클라우드 기반 IDE인 Cloud9을 사용해 Terraform으로 AWS Infra를 구축
 > - 고객은 Route53에 등록된 도메인을 통해 3-Tier 웹 서비스 이용
+> - ACM을 구축하여, HTTPS Protocol를 사용하여 보안을 강화
 > - RDS 이중화 구성
 
 ### Security Group
