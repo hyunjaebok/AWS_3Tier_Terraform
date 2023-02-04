@@ -9,7 +9,7 @@
 
 ## 🛠 사용 기술
 #### CSP
-<img src="https://img.shields.io/badge/Amazon AWS 2-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--AWS-->
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--AWS-->
 #### OS
 <img src="https://img.shields.io/badge/Amazon Linux 2-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <!--amazon linux-->
 #### Database
